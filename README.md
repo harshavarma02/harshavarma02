@@ -1,4 +1,4 @@
-- 👋# Hi,, I’m @harshavarma02
+- # Hi👋,, I’m @harshavarma02
 - Welcome to my GitHub profile! I'm a passionate and driven AI/ML enthusiast with a strong foundation in computer science and a knack for creative problem-solving.
 - ## 🚀 About Me
 
