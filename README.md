@@ -1,8 +1,8 @@
 - # Hi👋,, I’m @harshavarma02
 - Welcome to my GitHub profile! I'm a passionate and driven AI/ML enthusiast with a strong foundation in computer science and a knack for creative problem-solving.
-- ## 🚀 About Me
+# 🚀 About Me
 
-I'm a recent graduate with a B.Tech in Computer Science and Engineering – AIML . My academic journey has equipped me with a solid understanding of core programming concepts, web development technologies, and various AI/ML tools. I'm always eager to learn new things and explore the endless possibilities of artificial intelligence.
+- I'm a recent graduate with a B.Tech in Computer Science and Engineering – AIML . My academic journey has equipped me with a solid understanding of core programming concepts, web development technologies, and various AI/ML tools. I'm always eager to learn new things and explore the endless possibilities of artificial intelligence.
 -
 ## 🛠️ Technical Skills
 
