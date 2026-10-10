@@ -6,40 +6,43 @@
   Focus: AI Agents, MCP Servers, Agent Skills, Enterprise RAG, Boomi iPaaS, UPIlerify
 -->
 
-<!-- Header Banner -->
+<!-- Native Hero Header (100% Reliable & Always Online) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00b4d8&height=230&section=header&text=Harsha%20Varma&fontSize=48&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Autonomous%20Agents%20%26%20MCP%20%7C%20Hyderabad,%20India&descAlignY=55&descAlign=50" alt="Harsha Varma Header Banner" />
-</div>
+  <h1 style="border-bottom: none; font-size: 2.8rem; margin: 0; color: #00D2FF; text-shadow: 2px 2px 18px rgba(0, 210, 255, 0.45);">
+    ✨ HEY THERE! 👋 I'M HARSHA VARMA ✨
+  </h1>
+  <p align="center">
+    <b>AI Engineer · Autonomous Agents & MCP · Enterprise Integrations · Hyderabad, India 🇮🇳</b>
+  </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/harshavarma02">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=AI+Engineer+building+Autonomous+Agents;Model+Context+Protocol+(MCP)+%26+Agent+Skills;Production+RAG+%26+Enterprise+Boomi+iPaaS;Creator+of+UPIlerify+(Zero-Fee+Verification);Based+in+Hyderabad%2C+India+🇮🇳" alt="Typing SVG" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/harshavarma02">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=AI+Engineer+building+Autonomous+Agents;Model+Context+Protocol+(MCP)+%26+Agent+Skills;Production+RAG+%26+Enterprise+Boomi+iPaaS;Creator+of+UPIlerify+(Zero-Fee+Verification);Based+in+Hyderabad%2C+India+🇮🇳" alt="Typing SVG" />
+    </a>
+  </p>
 
-<!-- Socials -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/harshavarma02/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/harsha_varma02" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://upilerify.online" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=UPIlerify&logo=googlechrome&label=&color=0EA5E9&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="UPIlerify" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/harshavarma02" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="GitHub" />
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/harshavarma02/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/harsha_varma02" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="X" />
+    </a>
+    &nbsp;
+    <a href="https://upilerify.online" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=UPIlerify&logo=googlechrome&label=&color=0EA5E9&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="UPIlerify" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/harshavarma02" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
 <br />
 
-<!-- About Me (Table Layout) -->
+<!-- About Me (Table Layout with Coding GIF) -->
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -61,16 +64,12 @@
 
 <br />
 
-<!-- Tech Stack -->
-<h3 align="center">🛠️ Tech Stack & Architecture</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,react,nextjs,tailwind,postgres,docker,git,linux&perline=12" alt="Harsha's Core Skills" />
-</div>
+<!-- Categorized Tech Stack -->
+<h2 align="center">🛠️ Tech Stack & Architecture</h2>
 
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Agents-Tool_Calling-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+### 🤖 AI, Agents & Integration
+<p align="center">
+  <img src="https://img.shields.io/badge/Autonomous_Agents-Tool_Calling-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
   &nbsp;
   <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-10B981?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
   &nbsp;
@@ -81,12 +80,27 @@
   <img src="https://img.shields.io/badge/iPaaS-Boomi_Integration-0072CE?style=for-the-badge&logo=connector&logoColor=white" alt="Boomi iPaaS" />
   &nbsp;
   <img src="https://img.shields.io/badge/Inference-llama.cpp-EC4899?style=for-the-badge&logo=meta&logoColor=white" alt="llama.cpp" />
-</div>
+</p>
+
+### 💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=10" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres,redis&perline=10" alt="Backend Skills" />
+</p>
+
+### 🔧 Tools & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,bash&perline=10" alt="Tools & Infrastructure" />
+</p>
 
 <br />
 
 <!-- Featured Open Source -->
-<h3 align="center">🌟 Featured Open Source</h3>
+<h2 align="center">🌟 Featured Open Source</h2>
 
 | Project | Description | Live / Demo |
 |:---|:---|:---:|
@@ -96,7 +110,7 @@
 <br />
 
 <!-- Try Them Out -->
-<h3 align="center">⚡ Try Them Out</h3>
+<h2 align="center">⚡ Try Them Out</h2>
 
 ```bash
 # 1. UPIlerify: Run local merchant test console at http://localhost:3000
@@ -111,7 +125,7 @@ git clone https://github.com/harshavarma02/zero-jank-scroll-agent-skill.git ~/.c
 <br />
 
 <!-- What I Build -->
-<h3 align="center">🏗️ What I Build</h3>
+<h2 align="center">🏗️ What I Build</h2>
 
 - 🤖 **Production AI Agents:** Multi-step autonomous agents with deterministic tool-calling, state machines, and human-in-the-loop escalation.
 - 🔍 **RAG & Knowledge Pipelines:** Hybrid dense/sparse search, chunking strategies, and vector document retrieval over private enterprise data.
@@ -119,34 +133,22 @@ git clone https://github.com/harshavarma02/zero-jank-scroll-agent-skill.git ~/.c
 - 🧩 **MCP Servers & Agent Skills:** Standards-compliant Model Context Protocol servers and skill definitions for high agent reliability.
 - 💻 **Full-Stack AI Interfaces:** Low-latency backends (FastAPI/Node.js) paired with responsive frontends (Next.js/React/Tailwind) and real-time streaming.
 
-<br />
+<!-- 
+  NOTE ON SNAKE ANIMATION:
+  Once you push your repository to GitHub and run the workflow in '.github/workflows/snake.yml',
+  the 'output' branch will be created with 'snake.svg'. You can uncomment the block below to display it:
 
-<!-- Snake Animation -->
-<h3 align="center">🐍 Contribution Graph</h3>
+<br />
+<h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/harshavarma02/harshavarma02/output/snake.svg" alt="Harsha's Contribution Snake Animation" width="100%" />
 </div>
-
-<br />
-
-<!-- GitHub Activity & Stats -->
-<h3 align="center">📊 GitHub Activity & Stats</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavarma02&radius=15&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="Harsha's Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavarma02&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="165" alt="Harsha's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavarma02&layout=compact&theme=gotham&hide_border=true" height="165" alt="Harsha's Top Languages" />
-</div>
+-->
 
 <br />
 
 <!-- Connect Section -->
-<h3 align="center">💬 Let's Connect</h3>
+<h2 align="center">💬 Let's Connect</h2>
 <p align="center">
   <b>Looking to deploy AI agents that run reliably in production? Let's talk!</b><br />
   Open to AI engineering roles, technical architecture consulting, and agent integration projects.
@@ -168,11 +170,4 @@ git clone https://github.com/harshavarma02/zero-jank-scroll-agent-skill.git ~/.c
   <a href="https://github.com/harshavarma02" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="GitHub" />
   </a>
-</div>
-
-<br />
-
-<!-- Footer Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00b4d8&height=100&section=footer" alt="Footer Banner" />
 </div>
