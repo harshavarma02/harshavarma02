@@ -6,38 +6,35 @@
   Focus: AI Agents, MCP Servers, Agent Skills, Enterprise RAG, Boomi iPaaS, UPIlerify
 -->
 
-<!-- Native Hero Header (100% Reliable & Always Online) -->
+<!-- Header Banner -->
 <div align="center">
-  <h1 style="border-bottom: none; font-size: 2.8rem; margin: 0; color: #00D2FF; text-shadow: 2px 2px 18px rgba(0, 210, 255, 0.45);">
-    ✨ HEY THERE! 👋 I'M HARSHA VARMA ✨
-  </h1>
-  <p align="center">
-    <b>AI Engineer · Autonomous Agents & MCP · Enterprise Integrations · Hyderabad, India 🇮🇳</b>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Harsha%20Varma&fontSize=52&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Autonomous%20Agents%20%7C%20Hyderabad,%20India&descAlignY=55&descAlign=50" alt="Harsha Varma Header Banner" width="100%" />
+</div>
 
-  <p align="center">
-    <a href="https://github.com/harshavarma02">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=AI+Engineer+building+Autonomous+Agents;Model+Context+Protocol+(MCP)+%26+Agent+Skills;Production+RAG+%26+Enterprise+Boomi+iPaaS;Creator+of+UPIlerify+(Zero-Fee+Verification);Based+in+Hyderabad%2C+India+🇮🇳" alt="Typing SVG" />
-    </a>
-  </p>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/harshavarma02">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=AI+Engineer+building+Autonomous+Agents;Model+Context+Protocol+(MCP)+%26+Agent+Skills;Production+RAG+%26+Enterprise+Boomi+iPaaS;Creator+of+UPIlerify+(Zero-Fee+Verification);Based+in+Hyderabad%2C+India+🇮🇳" alt="Typing SVG" />
+  </a>
+</p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/harshavarma02/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://x.com/harsha_varma02" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="X" />
-    </a>
-    &nbsp;
-    <a href="https://upilerify.online" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=UPIlerify&logo=googlechrome&label=&color=0EA5E9&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="UPIlerify" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/harshavarma02" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="GitHub" />
-    </a>
-  </p>
+<!-- Socials -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/harshavarma02/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/harsha_varma02" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://upilerify.online" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=UPIlerify&logo=googlechrome&label=&color=0EA5E9&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="UPIlerify" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/harshavarma02" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="GitHub" />
+  </a>
 </div>
 
 <br />
@@ -49,11 +46,11 @@
       <h3>👨‍💻 About Me</h3>
       <p>I build production-grade <b>AI agents</b> and the heavy backend plumbing around them: tool calling, Model Context Protocol (MCP), and enterprise integration pipelines.</p>
       <ul>
-        <li>🚀 <b>Core Focus:</b> Multi-step autonomous agents, custom MCP servers & resilient LLM workflows.</li>
-        <li>💡 <b>Philosophy:</b> I love problems where the unglamorous integration is the hard part — like replacing a ~2% gateway fee with bank-alert webhooks.</li>
-        <li>🌟 <b>Featured Work:</b> Creator of <a href="https://upilerify.online"><b>UPIlerify</b></a> (Zero-gateway UPI verification in &lt;3s) and <a href="https://github.com/harshavarma02/zero-jank-scroll-agent-skill"><b>zero-jank-scroll-agent-skill</b></a>.</li>
-        <li>📍 <b>Location:</b> Hyderabad, India 🇮🇳</li>
-        <li>🎯 <b>Status:</b> Open to AI Engineer roles, agent architecture consulting & freelance integration projects.</li>
+        <li><b>Core Focus:</b> Multi-step autonomous agents, custom MCP servers & resilient LLM workflows.</li>
+        <li><b>Philosophy:</b> I love problems where the unglamorous integration is the hard part — like replacing a ~2% gateway fee with bank-alert webhooks.</li>
+        <li><b>Featured Work:</b> Creator of <a href="https://upilerify.online"><b>UPIlerify</b></a> (Zero-gateway UPI verification in &lt;3s) and <a href="https://github.com/harshavarma02/zero-jank-scroll-agent-skill"><b>zero-jank-scroll-agent-skill</b></a>.</li>
+        <li><b>Location:</b> Hyderabad, India 🇮🇳</li>
+        <li><b>Status:</b> Open to AI Engineer roles, agent architecture consulting & freelance integration projects.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -64,11 +61,11 @@
 
 <br />
 
-<!-- Categorized Tech Stack -->
+<!-- Categorized Tech Stack (Fully Center-Justified Design System) -->
 <h2 align="center">🛠️ Tech Stack & Architecture</h2>
 
-### 🤖 AI, Agents & Integration
-<p align="center">
+<h3 align="center">🤖 AI, Agents & LLM Serving</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Autonomous_Agents-Tool_Calling-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
   &nbsp;
   <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-10B981?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
@@ -77,25 +74,35 @@
   <br /><br />
   <img src="https://img.shields.io/badge/Enterprise_RAG-Hybrid_Search-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ollama_%26_vLLM-Local_Serving-00D2FF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama & vLLM" />
+  <br /><br />
   <img src="https://img.shields.io/badge/iPaaS-Boomi_Integration-0072CE?style=for-the-badge&logo=connector&logoColor=white" alt="Boomi iPaaS" />
   &nbsp;
   <img src="https://img.shields.io/badge/Inference-llama.cpp-EC4899?style=for-the-badge&logo=meta&logoColor=white" alt="llama.cpp" />
-</p>
+</div>
 
-### 💻 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=10" alt="Frontend Skills" />
-</p>
+<br />
 
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres,redis&perline=10" alt="Backend Skills" />
-</p>
+<h3 align="center">⚙️ Backend, Frameworks & Databases</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,postgres,mysql,supabase,redis&perline=8" alt="Backend & Database Skills" />
+</div>
 
-### 🔧 Tools & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,bash&perline=10" alt="Tools & Infrastructure" />
-</p>
+<br />
+
+<h3 align="center">💻 Frontend & Web</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=7" alt="Frontend Skills" />
+</div>
+
+<br />
+
+<h3 align="center">☁️ Cloud, DevOps & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,linux,git,github,postman,bash&perline=8" alt="Cloud, DevOps & Tools" />
+</div>
 
 <br />
 
@@ -133,18 +140,6 @@ git clone https://github.com/harshavarma02/zero-jank-scroll-agent-skill.git ~/.c
 - 🧩 **MCP Servers & Agent Skills:** Standards-compliant Model Context Protocol servers and skill definitions for high agent reliability.
 - 💻 **Full-Stack AI Interfaces:** Low-latency backends (FastAPI/Node.js) paired with responsive frontends (Next.js/React/Tailwind) and real-time streaming.
 
-<!-- 
-  NOTE ON SNAKE ANIMATION:
-  Once you push your repository to GitHub and run the workflow in '.github/workflows/snake.yml',
-  the 'output' branch will be created with 'snake.svg'. You can uncomment the block below to display it:
-
-<br />
-<h2 align="center">🐍 Contribution Graph</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harshavarma02/harshavarma02/output/snake.svg" alt="Harsha's Contribution Snake Animation" width="100%" />
-</div>
--->
-
 <br />
 
 <!-- Connect Section -->
@@ -170,4 +165,11 @@ git clone https://github.com/harshavarma02/zero-jank-scroll-agent-skill.git ~/.c
   <a href="https://github.com/harshavarma02" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="GitHub" />
   </a>
+</div>
+
+<br />
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
