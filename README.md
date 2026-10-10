@@ -8,7 +8,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Harsha%20Varma&fontSize=52&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Autonomous%20Agents%20%7C%20Hyderabad,%20India&descAlignY=55&descAlign=50" alt="Harsha Varma Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&fontColor=ffffff&height=240&section=header&text=Harsha%20Varma&fontSize=52&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Autonomous%20Agents%20%7C%20Hyderabad,%20India&descAlignY=55&descAlign=50" alt="Harsha Varma Header Banner" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -171,5 +171,5 @@ git clone https://github.com/harshavarma02/zero-jank-scroll-agent-skill.git ~/.c
 
 <!-- Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
